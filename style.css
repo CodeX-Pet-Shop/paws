@@ -6,6 +6,7 @@ html,body{
   width:100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
+  list-style-type: none;
 }
 
 .navbar{
@@ -16,6 +17,8 @@ html,body{
   padding-right: 10px;
 
 }
+
+
 
 .nav-link{
   font-size:1.1em !important;
