@@ -11,6 +11,7 @@ html,body{
 
 .navbar{
   padding: .1rem;
+  min-height: 50px;
 }
 
 .navbar-nav li{
